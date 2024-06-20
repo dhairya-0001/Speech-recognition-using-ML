@@ -1,7 +1,5 @@
 A real-time speech recognition system with a microphone in Python is a project where you capture audio input from a microphone, process it in real-time, and convert the spoken words into text. This kind of project involves using audio input libraries and speech recognition libraries to handle the audio data and perform the speech-to-text conversion.
 
-Here's a step-by-step guide to building a basic real-time speech recognition system in Python:
-
 ### Requirements
 1. **Python**: Ensure Python is installed on your system.
 2. **Libraries**:
